@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">inz</string>
+    <string name="currentLuxText">Current light value:</string>
+    <string name="luxDifferenceText">Difference:</string>
+    <string name="isDetectorText">Is detector?:</string>
+    <string name="luxValue">0.0</string>
+    <string name="luxDifferenceValue">0</string>
+    <string name="flashDetected">No flash detected</string>
+    <string name="useFlashlightButton">Start measurement</string>
+    <string name="startTimestampText">No measurement yet</string>
+</resources>
